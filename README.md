@@ -1,45 +1,51 @@
-# 🐺 Anonypos
+███████╗███╗   ██╗ ██████╗ ███╗   ██╗██╗   ██╗███╗   ███╗ ██████╗ ███████╗
+██╔════╝████╗  ██║██╔═══██╗████╗  ██║██║   ██║████╗ ████║██╔═══██╗██╔════╝
+█████╗  ██╔██╗ ██║██║   ██║██╔██╗ ██║██║   ██║██╔████╔██║██║   ██║█████╗  
+██╔══╝  ██║╚██╗██║██║   ██║██║╚██╗██║██║   ██║██║╚██╔╝██║██║   ██║██╔══╝  
+███████╗██║ ╚████║╚██████╔╝██║ ╚████║╚██████╔╝██║ ╚═╝ ██║╚██████╔╝███████╗
+╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝ ╚══════╝
 
-### *Self-Taught Hacker & Low-Level Developer*
+# 🏴‍☠️ Anonypos  
+### Offensive Security • Low-Level Development • Payload Engineering
 
 ---
 
-## ⚡ What I Actually Do
-- 👉 Break web applications, analyze how protections fail, and craft payloads that bypass them  
-- 👉 Build custom tools (Python / C / JS) for automation, scanning, and exploitation  
-- 👉 Study memory, pointers, buffer logic, and how programs behave at a low level  
-- 👉 Reverse-engineer behaviors, debug binaries, and understand program flow  
-- 👉 Create custom labs to test XSS filters, WordPress hardening, and WAF bypasses  
-- 👉 Develop clean UIs and client-side logic when needed (players, dashboards, tools)  
+## 🕳️ What I Actually Do
+- Analyze how systems break, not how they “should” work  
+- Develop advanced payloads that bypass filters, CSP, WAFs, and WordPress protections  
+- Build offensive tools in C, Python, and JavaScript  
+- Study memory, stack frames, heap behavior, pointer flows, and binary logic  
+- Reverse-engineer behavior using debugging, tracing, and flow analysis  
+- Build private pentest labs to test exploitation ideas and edge cases  
 
 ---
 
 ## 🧠 Strong Skills
-• Advanced Web Hacking (XSS bypassing, filter evasion, payload crafting)
-• WordPress pentesting & plugin analysis
-• Memory understanding (stack / heap basics, pointers, buffers)
-• Low-level programming in C (logic, sockets, struct manipulation)
-• Python for automation, scraping, and tools
-• Reverse-engineering mindset & debugging
-• Building custom front-end interfaces for tools
+- Advanced XSS bypass engineering (polyglots, 0-context, sneaky vectors)  
+- WordPress pentesting (plugin logic abuse, sanitization failure mapping)  
+- Low-level C programming (pointers, memory, sockets, structs)  
+- Python automation (scanners, payload generators, parsing tools)  
+- Debugging logic (breakpoints, flow tracing, input influence mapping)  
+- Front-end logic for hacking dashboards and tooling (JS)  
 
 ---
 
-## 🔥 Notable Projects
-- **Advanced XSS Payload Collection** – custom bypasses for WordPress/WAF  
-- **UTF-8 Fixer Tool** – Python utility to repair broken project encodings  
-- **Custom Music Player** – full JS logic with animations & dynamic playlist  
-- **C Socket Experiments** – low-level network code and memory tests  
-- **Personal Pentest Labs** – real exploitation practice environments  
+## 🔥 Notable Creations
+- **XSS Payload Arsenal** → custom WordPress/WAF bypass vectors  
+- **UTF-8 Repair Tool** → fixes corrupted encodings in whole projects  
+- **JS Music Player** → animations, playlist engine, dynamic UI  
+- **C Socket Playground** → networking & memory experimentation  
+- **Private Exploit Labs** → controlled environments for payload testing  
 
 ---
 
-## 🧩 What I Focus On
-• Becoming fully independent as a hacker
-• Mastering low-level logic
-• Understanding systems deeply, not superficially
-• Building real tools, not simple scripts
+## 🧩 Mindset
+- Break the system to understand it  
+- Build tools that give real advantage  
+- No guessing, only reasoning  
+- Precision > speed  
+
 ---
 
-## 🐉 Signature
-“I don’t stop until I understand exactly how it works — and why.”
+## 🐺 Signature
+> **“If I can’t break it, I don’t understand it yet.”**
