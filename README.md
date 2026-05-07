@@ -42,3 +42,5 @@
 
 ## 🐺 Signature
 > **“If I can’t break it, I don’t understand it yet.”**
+> # Support me
+![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X71Z3G55)
